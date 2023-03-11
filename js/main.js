@@ -1,4 +1,3 @@
-let alertDom = document.querySelector("#alert")
 let userForm = document.querySelector("#userForm")
 userForm.addEventListener('submit', formHandler)
 
